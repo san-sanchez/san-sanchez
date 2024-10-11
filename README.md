@@ -1,5 +1,6 @@
 # Hey! Nice to see you 👋
-# <img src="https://media.giphy.com/media/l2Je8OqgSyzg93f6o/giphy.gif?cid=ecf05e47g6aln834776yw8qgsynxhqnabj2pg5q1gtnhdefc&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="200"/> welcome to my page
+# <img src="https://media.giphy.com/media/l2Je8OqgSyzg93f6o/giphy.gif?cid=ecf05e47g6aln834776yw8qgsynxhqnabj2pg5q1gtnhdefc&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="200"/>
+
 <!--
 **san-sanchez/san-sanchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
